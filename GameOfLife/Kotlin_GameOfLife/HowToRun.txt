@@ -1,0 +1,9 @@
+Requirements:
+Download compiler from https://github.com/JetBrains/kotlin/releases/tag/v1.4.32
+Have Java downloaded
+Make sure 'bin' folder is part of system PATH
+
+1. Type ' kotlinc Driver.kt GameOfLife.kt -include-runtime -d driver.jar '
+2. Type ' java -jar driver.jar [desired file] ' where the desired file
+	is one of the files needed to run the code (e.g. blinker.gol)
+3. Follow the directions on screen
