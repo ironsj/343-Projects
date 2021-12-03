@@ -2,7 +2,7 @@
 
 /**
  *  Driver code for Game of Life game
- *  Author(s): Nandigam
+ * 
  */
 
 /*

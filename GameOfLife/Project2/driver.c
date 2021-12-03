@@ -1,9 +1,3 @@
-//***************************************************
-// Filename: driver.c
-//
-// Author: Nandigam
-//***************************************************
-
 #include "life.h"
 
 int main(int argc, char** argv) {

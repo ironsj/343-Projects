@@ -1,7 +1,3 @@
-/**
- *  Units test for Othello game
- *  Author(s): Nandigam
- */
 
 const Othello = require('./Othello');
 

@@ -1,9 +1,6 @@
 require "./GameOfLife"
 
-#
-# Driver code for Game of Life game (DO NOT MODIFY)
-# Author(s): Nandigam
-#
+
 
 def main
     # ARGV array stores command-line arguments

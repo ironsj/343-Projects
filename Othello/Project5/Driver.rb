@@ -1,9 +1,5 @@
 require "./Othello"
 
-#
-# Driver code to play the Othello game (DO NOT MODIFY)
-# Author(s): Nandigam
-#
 
 def main()
     # ARGV array stores command-line arguments

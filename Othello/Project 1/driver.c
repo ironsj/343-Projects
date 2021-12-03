@@ -1,9 +1,3 @@
-//***************************************************
-// Filename: driver.c
-//
-// Author: Nandigam
-//***************************************************
-
 #include "othello.h"
 
 // function declarations

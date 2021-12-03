@@ -1,9 +1,3 @@
-//*****************************************************
-// Filename: tests.c (unit tests for the game logic)
-//
-// Author: Nandigam
-//*****************************************************
-
 #include "CuTest.h"
 #include "othello.h"
     

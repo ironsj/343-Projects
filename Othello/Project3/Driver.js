@@ -1,9 +1,5 @@
 'use strict';
 
-/**
- *  Driver code for Othello game
- *  Author(s): Nandigam
- */
 
 /**
  * Requires "readline-sync" package for synchronous I/O

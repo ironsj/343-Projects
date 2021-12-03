@@ -1,8 +1,3 @@
-/**
- *  Unit tests for Game of Life game
- *  Author(s): Nandigam
- */
-
 const GameOfLife = require('./GameOfLife');
 
 const fs = require('fs');

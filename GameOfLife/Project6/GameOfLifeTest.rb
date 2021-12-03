@@ -1,10 +1,6 @@
 require "minitest/autorun"
 require "./GameOfLife"
 
-#
-# Unit tests for GameOfLife class (DO NOT MODIFY)
-# Author: Nandigam
-#
 class GameOfLifeTest < Minitest::Test
 
     def test_constructor

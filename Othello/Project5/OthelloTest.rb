@@ -1,10 +1,7 @@
 require "minitest/autorun"
 require "./Othello"
 
-#
-# Unit tests for Othello class (DO NOT MODIFY)
-# Author: Nandigam
-#
+
 class OthelloTest < Minitest::Test
 
     def test_constructor_1
